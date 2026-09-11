@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Amir%20Talebi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&font=Fira%20Code"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,50:1976a2,100:48c6ef&height=230&section=header&text=Amir%20Talebi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&font=Fira%20Code"
     alt="Amir Talebi"
   />
 </p>
@@ -34,11 +34,14 @@
 ## 🧠 Machine Learning
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
 ---
@@ -73,7 +76,7 @@ Exploring attention-based architectures and the ideas behind modern Transformer 
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:48c6ef,50:1976a2,100:0f4c75&height=100&section=footer"
     alt="footer"
   />
 </p>
